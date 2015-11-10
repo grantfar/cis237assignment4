@@ -1,0 +1,6 @@
+E:\Programming\Programs\cis237assignment4\cis237assignment4\bin\Debug\cis237assignment4.exe.config
+E:\Programming\Programs\cis237assignment4\cis237assignment4\bin\Debug\cis237assignment4.exe
+E:\Programming\Programs\cis237assignment4\cis237assignment4\bin\Debug\cis237assignment4.pdb
+E:\Programming\Programs\cis237assignment4\cis237assignment4\obj\Debug\cis237assignment4.csprojResolveAssemblyReference.cache
+E:\Programming\Programs\cis237assignment4\cis237assignment4\obj\Debug\cis237assignment4.exe
+E:\Programming\Programs\cis237assignment4\cis237assignment4\obj\Debug\cis237assignment4.pdb
